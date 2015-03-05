@@ -33,7 +33,7 @@
 
     <!-- Navigation -->
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-        <div class="container">
+        <div class="container" style="margin-bottom: 90px;">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -42,7 +42,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.php"><img src="logo.jpg" width="30%" height="250%"/></img></a>
+                <a class="navbar-brand" href="index.php"><img src="logo_new.png" width="75%" height="380%"/></img></a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -91,7 +91,7 @@
     </nav>
 
     <!-- Header Carousel -->
-    <header id="myCarousel" class="carousel slide">
+    <header id="myCarousel" class="carousel slide" style="margin-top: 60px;">
         <!-- Indicators -->
         <ol class="carousel-indicators">
             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -102,31 +102,32 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
             <div class="item active">
-                <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide One');"></div>
+                <div class="fill" style="background-image:url('front1.png'); background-size: 45% 80%; background-repeat: no-repeat;"></div>
                 <div class="carousel-caption">
-                    <h2>Caption 1</h2>
+                    <h2></h2>
                 </div>
             </div>
             <div class="item">
-                <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide Two');"></div>
+                <div class="fill" style="background-image:url('front2.png'); background-size: 45% 80%; background-repeat: no-repeat;"></div>
                 <div class="carousel-caption">
-                    <h2>Caption 2</h2>
+                    <h2></h2>
                 </div>
             </div>
             <div class="item">
-                <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide Three');"></div>
+                <div class="fill" style="background-image:url('front3.png'); background-size: 45% 80%; background-repeat: no-repeat;"></div>
                 <div class="carousel-caption">
-                    <h2>Caption 3</h2>
+                    <h2></h2>
+
                 </div>
             </div>
         </div>
 
         <!-- Controls -->
         <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-            <span class="icon-prev"></span>
+            <div style="margin-top: 80%;"><img align="bottom" height="20%" width="20%" src="left_arrow.png"></img></div>
         </a>
         <a class="right carousel-control" href="#myCarousel" data-slide="next">
-            <span class="icon-next"></span>
+            <div style="margin-top: 80%;"><img align="bottom" height="20%" width="20%" src="right_arrow.png"></img></div>
         </a>
     </header>
 
