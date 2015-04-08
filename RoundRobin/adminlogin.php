@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
  <head>
-	<title>HW3</title>
+	<title>RoundRobin</title>
 	<link rel="stylesheet" type="text/css" href="TicketStyleSheet.css"/>
  </head>
  <body>
 <h1>
 	<b>
- 		Welcome to RoundRobin Login Page
+ 		Welcome to the RoundRobin Login Page
  	</b>
 </h1> 
  <center>

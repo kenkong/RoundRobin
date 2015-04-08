@@ -7,8 +7,10 @@ RoundRobin is an innovative crowdfunding platform. Instead of offering ventures 
 
 # Instructions on Website Setup #
 
-To run our website locally, first download our v1.1 tag. You can begin by running the index.php file in your localhost by typing "localhost/RoundRobing/index.php" into your browser after dropping the file in your "htdocs" and connecting to a localhost.
-When you would like to log in and hit the "Login" option on the navbar, be sure to have your server configured. Your server should be pointed to the 'root' and you will need to make sure this is not password protected. We will create the databases for you, so you don't need to worry about that!
+To run our website locally, first download our v1.1 tag. 
+You can begin by running the init.php and then the index.php file in your localhost by typing "localhost/RoundRobing/init.php" then i"localhost/RoundRobing/index.php" nto your browser after dropping the file in your "htdocs" and connecting to a localhost.
+When you would like to log in and hit the "Login" option on the navbar, be sure to have your server configured. Your server should be pointed to the 'root' and you will need to make sure this is not password protected (or have an empty password). 
+We will create the necessary databases for you, so you don't need to worry about that!
 
 # Instructions on Software Downloads #
 

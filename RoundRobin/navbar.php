@@ -88,7 +88,7 @@
 	
 ?>
                     <li>
-                        <a href="init.php">Log in</a>
+                        <a href="adminlogin.php">Log in</a>
                     </li>
 <?php
 				}
