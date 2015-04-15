@@ -73,7 +73,13 @@
                             <li>
                                 <a href="profile-featured.php">Featured</a>
                             </li>
+                            <li>
+                                <a href="service-home.php">Services</a>
+                            </li>
                         </ul>
+                    </li>
+                    <li>
+                        <a href="pricing.php">Pricing</a>
                     </li>
 
                     <li>
