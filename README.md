@@ -1,6 +1,8 @@
 # RoundRobin #
 
-CS 4753 Project
+University of Virginia
+Computer Science 4753 Project
+Spring 2015
 
 RoundRobin is an innovative crowdfunding platform. Instead of offering ventures montary contributions, contributors (providers) may offer entrepreneurs (builders) services and connections. Together, builders and providers can help advance ventures like never before.
 
